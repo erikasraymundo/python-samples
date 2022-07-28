@@ -1,0 +1,7 @@
+{
+  "currencies": [
+    { "baseCurr": "usd", "foreign": "php", "rate": 55.73 },
+    { "baseCurr": "cad", "foreign": "php", "rate": 43.34 },
+    { "baseCurr": "AUD", "foreign": "PHP", "rate": 70.0 }
+  ]
+}
